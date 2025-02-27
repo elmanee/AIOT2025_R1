@@ -126,9 +126,10 @@ while True:
 
     sleep(1)
 ```
-#### Video
+### Imagen
 ![Imagen de WhatsApp 2025-02-27 a las 03 46 58_93c77da4](https://github.com/user-attachments/assets/94c3dbe4-d906-4670-ac6f-2e5454394cf3)
 
+#### Video
 [Link al video y flujo](https://drive.google.com/drive/folders/1u0eyGvb6l0lOKrkla-z487WvvUNCj13C?usp=drive_link)  
 
 
