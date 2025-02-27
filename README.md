@@ -90,5 +90,44 @@ while True:
 
 [Link al video y flujo](https://drive.google.com/drive/folders/1u0eyGvb6l0lOKrkla-z487WvvUNCj13C?usp=drive_link)  
 
+### Actividad 2
+
+#### Código Fuente
+
+```python
+from hcsr04 import HCSR04
+from time import sleep
+from machine import Pin
+
+sensor = HCSR04(trigger_pin=5, echo_pin=18, echo_timeout_us=24000)
+
+ledRojo = Pin(19, Pin.OUT)
+ledAmarillo = Pin(4, Pin.OUT)
+ledVerde = Pin(15, Pin.OUT)
+
+while True:
+    distancia = sensor.distance_cm()
+    if distancia >= 0:
+        print(distancia)
+        if distancia > 30:
+            ledRojo.value(0)
+            ledAmarillo.value(0)
+            ledVerde.value(1)
+        elif distancia >= 15:
+            ledRojo.value(0)
+            ledAmarillo.value(1)
+            ledVerde.value(0)
+        else:
+            ledRojo.value(1)
+            ledAmarillo.value(0)
+            ledVerde.value(0)
+    else:
+        print("Error de medición")
+
+    sleep(1)
+```
+#### Video
+
+[Link al video y flujo](https://drive.google.com/drive/folders/1u0eyGvb6l0lOKrkla-z487WvvUNCj13C?usp=drive_link)  
 
 
