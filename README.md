@@ -1,9 +1,22 @@
 # AIOT2025_R1
 
 ## Parte Teórica
+Basado en **NetAcad Python Fundamentals 2**:
 
-(Colocar aquí la información teórica relacionada con el proyecto, conceptos y fundamentos necesarios.)
+- **Capítulo 1**  
+  ![image](https://github.com/user-attachments/assets/034afded-84a2-4912-b2e6-4f6971f1f130)
 
+- **Capítulo 2**  
+  ![image](https://github.com/user-attachments/assets/916d5ec7-b405-45d1-8078-2585e2da3f52)
+
+- **Capítulo 3**  
+  ![image](https://github.com/user-attachments/assets/aad7a913-9b64-484a-abdb-d7b2f5e342b2)
+
+- **Capítulo 4**  
+  ![image](https://github.com/user-attachments/assets/a7836531-9a34-486c-bf66-a91cd210f93d)
+
+- **Prueba Final del curso Fundamentos de Python 2 (PE2)**  
+  ![image](https://github.com/user-attachments/assets/b84129a4-ee14-4ebe-8f98-17dbb58c949c)
 ## Parte Práctica
 
 ### Actividad 1
