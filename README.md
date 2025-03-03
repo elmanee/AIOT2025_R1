@@ -230,6 +230,9 @@ while True:
 ### Imagen
 ![Imagen de WhatsApp 2025-02-27 a las 03 46 58_93c77da4](https://github.com/user-attachments/assets/94c3dbe4-d906-4670-ac6f-2e5454394cf3)
 
+### Coneccion circuito
+![image](https://github.com/user-attachments/assets/40a42487-65b5-4151-bf2e-3fb2d8f899ab)
+
 #### Video
 [Link al video y flujo](https://drive.google.com/drive/folders/1oocsk-Ek0dTLc7A9W3XLpgc5RM9qkoKE?usp=drive_link)  
 
